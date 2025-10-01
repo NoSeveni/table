@@ -1,0 +1,8 @@
+﻿  Table.cpp
+C:\Users\Alexander\source\repos\clip\clip\Table.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alexander\source\repos\clip\clip\Table.cpp(32,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alexander\source\repos\clip\clip\Table.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alexander\source\repos\clip\clip\Table.cpp(60,31): warning C4018: <: несоответствие типов со знаком и без знака
+  clip.cpp
+  Создание кода...
+  clip.vcxproj -> C:\Users\Alexander\source\repos\clip\Debug\clip.exe
